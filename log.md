@@ -12,3 +12,10 @@
 
 
 ### Day 2: September 5, 2023
+**Today's Progress**: Started learning features in ECMAScript 6. Completed **Classes** and **Arrow Functions**
+
+**Thoughts:** I had fun with the arrow functions. Easy to use and understand. The Contructors in Classes are stuck in my head. I am hopeful today.
+
+**Link to work:** 
+1. [react-in-html](https://github.com/sdabbey/React-tutorial/blob/master/main.html)
+
