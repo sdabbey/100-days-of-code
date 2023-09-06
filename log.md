@@ -19,3 +19,13 @@
 **Link to work:** 
 1. [react-in-html](https://github.com/sdabbey/React-tutorial/blob/master/main.html)
 
+
+### Day 3: September 6, 2023
+**Today's Progress**: Continued learning features in ECMAScript 6. Completed **Variables** and **Array methods ~ map()**
+
+**Thoughts:** So far, these conceptsare not difficult to grab. I learnt the scope of each variable type.
+
+**Link to work:** 
+1. [react-in-html](https://github.com/sdabbey/React-tutorial/blob/master/main.html)
+2.[Variables](https://www.w3schools.com/react/react_es6_variables.asp)
+3.[Array methods](https://www.w3schools.com/react/react_es6_array_methods.asp)
