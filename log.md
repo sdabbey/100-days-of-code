@@ -29,3 +29,13 @@
 1. [react-in-html](https://github.com/sdabbey/React-tutorial/blob/master/main.html)
 2.[Variables](https://www.w3schools.com/react/react_es6_variables.asp)
 3.[Array methods](https://www.w3schools.com/react/react_es6_array_methods.asp)
+
+
+### Day 4: September 7, 2023
+**Today's Progress**: Continued learning features in ECMAScript 6. Completed **Destructuring Arrays** and **Destructuring Objects**
+
+**Thoughts:** It's quite interesting the little code to write to destructure an array.
+
+**Link to work:** 
+1. [react-in-html](https://github.com/sdabbey/React-tutorial/blob/master/main.html)
+2.[Destructuring](https://www.w3schools.com/react/react_es6_destructuring.asp)
