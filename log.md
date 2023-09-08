@@ -39,3 +39,13 @@
 **Link to work:** 
 1. [react-in-html](https://github.com/sdabbey/React-tutorial/blob/master/main.html)
 2.[Destructuring](https://www.w3schools.com/react/react_es6_destructuring.asp)
+
+
+### Day 5: September 8, 2023
+**Today's Progress**: Continued learning features in ECMAScript 6. Completed **Spread Operator**
+
+**Thoughts:** It's quite interesting. I am having a blast
+
+**Link to work:** 
+1. [react-in-html](https://github.com/sdabbey/React-tutorial/blob/master/main.html)
+2.[Spread operator](https://www.w3schools.com/react/react_es6_spread.asp)
