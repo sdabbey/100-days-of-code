@@ -49,3 +49,12 @@
 **Link to work:** 
 1. [react-in-html](https://github.com/sdabbey/React-tutorial/blob/master/main.html)
 2.[Spread operator](https://www.w3schools.com/react/react_es6_spread.asp)
+
+### Day 6: September 10, 2023
+**Today's Progress**: Continued learning features in ECMAScript 6. Completed **Modules**
+
+**Thoughts:** Love how I can divide my code into chunks
+
+**Link to work:** 
+1. [react-in-html](https://github.com/sdabbey/React-tutorial/blob/master/main.html)
+2.[Spread operator](https://www.w3schools.com/react/react_es6_modules.asp)
