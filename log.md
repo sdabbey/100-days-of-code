@@ -58,3 +58,13 @@
 **Link to work:** 
 1. [react-in-html](https://github.com/sdabbey/React-tutorial/blob/master/main.html)
 2.[Spread operator](https://www.w3schools.com/react/react_es6_modules.asp)
+
+
+### Day 7: September 11, 2023
+**Today's Progress**: Continued learning features in ECMAScript 6. Completed **Ternary Operator**
+
+**Thoughts:** I can now write small code to perform if and else conditional statement.
+
+**Link to work:** 
+1. [react-in-html](https://github.com/sdabbey/React-tutorial/blob/master/main.html)
+2.[Spread operator](https://www.w3schools.com/react/react_es6_ternary.asp)
