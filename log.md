@@ -67,4 +67,4 @@
 
 **Link to work:** 
 1. [react-in-html](https://github.com/sdabbey/React-tutorial/blob/master/main.html)
-2.[Spread operator](https://www.w3schools.com/react/react_es6_ternary.asp)
+2.[Ternary operator](https://www.w3schools.com/react/react_es6_ternary.asp)
