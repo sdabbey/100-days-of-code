@@ -68,3 +68,16 @@
 **Link to work:** 
 1. [react-in-html](https://github.com/sdabbey/React-tutorial/blob/master/main.html)
 2.[Ternary operator](https://www.w3schools.com/react/react_es6_ternary.asp)
+
+
+### Day 8: September 11, 2023
+**Today's Progress**: Finished **React Render HTML**
+
+**Thoughts:** I already had practice in rendering React to HTML. Quite nice to revisit that.
+
+**Link to work:** 
+1. [react-in-html](https://github.com/sdabbey/React-tutorial/blob/master/main.html)
+2.[Render HTML](https://www.w3schools.com/react/react_render.asp)
+
+
+
