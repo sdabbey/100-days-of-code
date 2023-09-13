@@ -70,7 +70,7 @@
 2.[Ternary operator](https://www.w3schools.com/react/react_es6_ternary.asp)
 
 
-### Day 8: September 11, 2023
+### Day 8: September 12, 2023
 **Today's Progress**: Finished **React Render HTML**
 
 **Thoughts:** I already had practice in rendering React to HTML. Quite nice to revisit that.
@@ -80,7 +80,7 @@
 2.[Render HTML](https://www.w3schools.com/react/react_render.asp)
 
 
-### Day 9: September 11, 2023
+### Day 9: September 13, 2023
 **Today's Progress**: Finished **React JSX**
 
 **Thoughts:** Interesting how I can write real HTML in JSX raw.
