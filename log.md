@@ -80,4 +80,11 @@
 2.[Render HTML](https://www.w3schools.com/react/react_render.asp)
 
 
+### Day 9: September 11, 2023
+**Today's Progress**: Finished **React JSX**
 
+**Thoughts:** Interesting how I can write real HTML in JSX raw.
+
+**Link to work:** 
+1. [react-in-html](https://github.com/sdabbey/React-tutorial/blob/master/main.html)
+2.[Render HTML](https://www.w3schools.com/react/react_jsx.asp)
