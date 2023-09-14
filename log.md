@@ -88,3 +88,13 @@
 **Link to work:** 
 1. [react-in-html](https://github.com/sdabbey/React-tutorial/blob/master/main.html)
 2.[Render HTML](https://www.w3schools.com/react/react_jsx.asp)
+
+
+### Day 10: September 14, 2023
+**Today's Progress**: Finished **React Components**
+
+**Thoughts:** When passing props, the name of the prop should match the one preceding props."".
+
+**Link to work:** 
+1. [react-in-html](https://github.com/sdabbey/React-tutorial/blob/master/main.html)
+2.[Render HTML](https://www.w3schools.com/react/react_components.asp)
